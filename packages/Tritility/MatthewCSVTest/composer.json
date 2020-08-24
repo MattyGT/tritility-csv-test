@@ -1,0 +1,15 @@
+{
+    "name": "tritility/matthewcsvtest",
+    "description": "package to convert spreadsheet into csv",
+    "type": "project",
+    "require-dev": {},
+    "license": "NA",
+    "authors": [
+        {
+            "name": "Matthew Tyler",
+            "email": "matthewgtyler@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
